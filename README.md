@@ -9,6 +9,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.tenor.com/OA0UvNbsLNEAAAAM/gengar.gif"  />
 
 ###
@@ -41,6 +47,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/donaikk/donaikk/output/snake.svg" alt="Snake animation" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
