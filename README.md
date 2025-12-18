@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://i.imgur.com/vH977rU.png" style="max-width: 100%;" alt="Rafael Paiva Banner" />
+  <img src="https://github.com/Donaikk/donaikk/raw/main/tre%20(1).png" style="max-width: 100%;" alt="Rafael Paiva Banner" />
   
   <br />
   <h1>Rafael Paiva</h1>
   <p>✨ Transformando ideias em experiências digitais ✨</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=donaikk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donaikk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
-  </p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=donaikk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donaikk&layout=compact&theme=dracula&langs_count=5" height="170" />
+  </div>
 </div>
 
 ---
@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <p>Olá! Sou o Rafael, um <b>Desenvolvedor de Sistemas com formação técnica</b> dedicado a criar soluções modernas e eficientes.</p>
       <p>🌐 Minha especialidade e paixão estão no <b>desenvolvimento web</b>, onde busco unir estética e funcionalidade para entregar a melhor experiência ao usuário.</p>
       <p>🚀 Atualmente, estou em constante evolução, aprimorando minhas competências em tecnologias fullstack e explorando novas ferramentas para resolver problemas reais através do código.</p>
