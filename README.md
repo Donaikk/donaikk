@@ -5,10 +5,21 @@
   <h1>Rafael Paiva</h1>
   <p>✨ Transformando ideias em experiências digitais ✨</p>
 
+  <img src="https://github-profile-trophy.vercel.app/?username=donaikk&theme=dracula&no-frame=true&column=4" width="100%" alt="trophies" />
+
+  <br />
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=donaikk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donaikk&layout=compact&theme=dracula&langs_count=5" height="170" />
   </div>
+</div>
+
+---
+
+### 🎧 Listening to...
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pndclm690f0u5r6r036wuv40v&cover_image=true&theme=dracula&show_offline=true&interact=true" alt="Spotify" />
 </div>
 
 ---
