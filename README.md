@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://github.com/Donaikk/donaikk/raw/main/tre%20(1).png" style="max-width: 100%;" alt="Rafael Paiva Banner" />
+  <img src="https://github.com/Donaikk/donaikk/raw/main/tre%20(1).png" height="150" alt="Rafael Paiva Banner" />
   
   <br />
   <h1>Rafael Paiva</h1>
   <p>✨ Transformando ideias em experiências digitais ✨</p>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=donaikk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donaikk&layout=compact&theme=dracula&langs_count=5" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=donaikk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donaikk&layout=compact&theme=dracula&langs_count=5" height="150" />
   </div>
 </div>
 
