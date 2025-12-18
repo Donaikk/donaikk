@@ -3,7 +3,7 @@
   
   <br />
   <h1>Rafael Paiva</h1>
-  <p> Transformando ideias em experiências digitais </p>
+  <p>✨ Transformando ideias em experiências digitais ✨</p>
 
   <br />
 
@@ -15,7 +15,7 @@
 
 ---
 
-###  Sobre Mim
+### 💻 Sobre Mim
 
 <table>
   <tr>
@@ -26,14 +26,14 @@
       <p>📫 <b>Vamos construir algo juntos?</b> Sinta-se à vontade para entrar em contato através das minhas redes abaixo!</p>
     </td>
     <td align="center" width="150px">
-      <img src="https://media.tenor.com/OA0UvNbsLNEAAAAM/gengar.gif" width="120" />
+      <img src="https://github.com/Donaikk/donaikk/raw/main/129497.gif" width="120" />
     </td>
   </tr>
 </table>
 
 ---
 
-###  Stack Tecnológica
+### 🛠 Stack Tecnológica
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -68,6 +68,4 @@
   <br /><br />
 
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rafaelg.p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
-  </a>
-</div>
+    <img src="
