@@ -19,7 +19,16 @@
 
 ### 🎧 Listening to...
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pndclm690f0u5r6r036wuv40v&cover_image=true&theme=dracula&show_offline=true&interact=true" alt="Spotify" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rafaelg.p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
+  </a>
+</div>
+
+---
+
+### 🐍 Snake Game (Minhas Contribuições)
+<div align="center">
+  <img src="https://github.com/donaikk/donaikk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
