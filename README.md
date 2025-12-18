@@ -25,8 +25,8 @@
       <p>🚀 Atualmente, estou em constante evolução, aprimorando minhas competências em tecnologias fullstack e explorando novas ferramentas para resolver problemas reais através do código.</p>
       <p>📫 <b>Vamos construir algo juntos?</b> Sinta-se à vontade para entrar em contato através das minhas redes abaixo!</p>
     </td>
-    <td align="center" width="150px">
-      <img src="https://github.com/Donaikk/donaikk/raw/main/129497.gif" width="120" />
+    <td align="center" width="250px">
+      <img src="https://github.com/Donaikk/donaikk/raw/main/129497.gif" width="220" />
     </td>
   </tr>
 </table>
@@ -68,4 +68,6 @@
   <br /><br />
 
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rafaelg.p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
+  </a>
+</div>
