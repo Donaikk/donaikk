@@ -5,30 +5,12 @@
   <h1>Rafael Paiva</h1>
   <p>✨ Transformando ideias em experiências digitais ✨</p>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=donaikk&theme=dracula&no-frame=true&column=4" width="100%" alt="trophies" />
-
   <br />
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=donaikk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donaikk&layout=compact&theme=dracula&langs_count=5" height="170" />
   </div>
-</div>
-
----
-
-### 🎧 Listening to...
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rafaelg.p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
-  </a>
-</div>
-
----
-
-### 🐍 Snake Game (Minhas Contribuições)
-<div align="center">
-  <img src="https://github.com/donaikk/donaikk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -82,4 +64,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=donaikk&color=0078D4&style=flat-square&label=PERFIL+VISUALIZADO" />
+  
+  <br /><br />
+
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rafaelg.p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" />
+  </a>
 </div>
