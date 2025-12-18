@@ -1,29 +1,30 @@
 <div align="center">
-  <img src="https://i.imgur.com/wvCI1h0.png" width="200" alt="Rafael Paiva Logo" />
+  <img src="https://i.imgur.com/vH977rU.png" style="max-width: 100%;" alt="Rafael Paiva Banner" />
   
+  <br />
   <h1>Rafael Paiva</h1>
-  <p>🚀 Systems Developer | Brazil 🇧🇷</p>
+  <p>✨ Transformando ideias em experiências digitais ✨</p>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=donaikk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donaikk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" />
-  </div>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=donaikk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donaikk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  </p>
 </div>
 
 ---
 
-### 👾 Sobre Mim
+### 💻 Sobre Mim
 
-<table border="0">
+<table>
   <tr>
-    <td width="70%">
-      <p>Olá! Me chamo Rafael e sou um desenvolvedor apaixonado por tecnologia e resolução de problemas.</p>
-      <p>🔭 Atualmente focando em <b>desenvolvimento de sistemas</b> e automação.</p>
-      <p>⚡ Adoro o universo Pokémon (Gengar é o meu favorito!) e games em geral.</p>
-      <p>📫 <b>Vamos conversar?</b> Use os botões de redes sociais abaixo!</p>
+    <td>
+      <p>Olá! Sou o Rafael, um <b>Desenvolvedor de Sistemas com formação técnica</b> dedicado a criar soluções modernas e eficientes.</p>
+      <p>🌐 Minha especialidade e paixão estão no <b>desenvolvimento web</b>, onde busco unir estética e funcionalidade para entregar a melhor experiência ao usuário.</p>
+      <p>🚀 Atualmente, estou em constante evolução, aprimorando minhas competências em tecnologias fullstack e explorando novas ferramentas para resolver problemas reais através do código.</p>
+      <p>📫 <b>Vamos construir algo juntos?</b> Sinta-se à vontade para entrar em contato através das minhas redes abaixo!</p>
     </td>
-    <td width="30%" align="center">
-      <img src="https://media.tenor.com/OA0UvNbsLNEAAAAM/gengar.gif" width="150" />
+    <td align="center" width="150px">
+      <img src="https://media.tenor.com/OA0UvNbsLNEAAAAM/gengar.gif" width="120" />
     </td>
   </tr>
 </table>
