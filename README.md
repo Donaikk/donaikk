@@ -3,7 +3,7 @@
   
   <br />
   <h1>Rafael Paiva</h1>
-  <p>✨ Transformando ideias em experiências digitais ✨</p>
+  <p> Transformando ideias em experiências digitais </p>
 
   <br />
 
