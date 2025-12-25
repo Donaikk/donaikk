@@ -23,7 +23,7 @@
       <p>Olá! Sou o Rafael, um <b>Desenvolvedor de Sistemas com formação técnica</b> dedicado a criar soluções modernas e eficientes.</p>
       <p>🌐 Minha especialidade e paixão estão no <b>desenvolvimento web</b>, onde busco unir estética e funcionalidade para entregar a melhor experiência ao usuário.</p>
       <p>🚀 Atualmente, estou em constante evolução, aprimorando minhas competências em tecnologias fullstack e explorando novas ferramentas para resolver problemas reais através do código.</p>
-      <p>📫 <b>Vamos construir algo juntos?</b> Sinta-se à vontade para entrar em contato através das minhas redes abaixo!</p>
+      <p>📫 Vamos construir algo juntos? Sinta-se à vontade para entrar em contato através das minhas redes abaixo!</p>
     </td>
     <td align="center" width="250px">
       <img src="https://github.com/Donaikk/donaikk/raw/main/129497.gif" width="220" />
