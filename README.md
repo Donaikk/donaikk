@@ -44,6 +44,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+<br />
+
+<details>
+  <summary>🚀 <b>Tudo o que eu já usei</b></summary>
+  <br />
+  <p>Aqui estão outras tecnologias, ferramentas e bibliotecas que já fizeram parte do meu fluxo de aprendizado e projetos:</p>
+  <code>Node.js</code> • <code>TypeScript</code> • <code>Git/GitHub</code> • <code>Bootstrap</code> • <code>Tailwind</code> • <code>Figma</code> • <code>C#</code> • <code>SQLite</code> • <code>Java</code>
+</details>
+
 ---
 
 ### 🤝 Conecte-se comigo
